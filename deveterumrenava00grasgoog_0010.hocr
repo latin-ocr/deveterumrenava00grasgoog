@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deveterumrenava00grasgoog_0010.png"; bbox 0 0 1250 1629; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 275 477 876 512">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 275 477 876 512">
+     <span class='ocr_line' id='line_1_1' title="bbox 275 477 876 512; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 275 477 544 512; x_wconf 82' lang='lat' dir='ltr'>AUGUSTO</span> <span class='ocrx_word' id='word_1_2' title='bbox 582 478 876 511; x_wconf 84' lang='lat' dir='ltr'><strong>BOECKHIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 332 603 823 653">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 332 603 823 653">
+     <span class='ocr_line' id='line_1_2' title="bbox 332 603 823 653; baseline 0.004 -2"><span class='ocrx_word' id='word_1_3' title='bbox 332 624 600 653; x_wconf 72' lang='lat' dir='ltr'><strong>PRAmcmP&#39;rom</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 616 603 823 653; x_wconf 44' lang='lat' dir='ltr'><strong>climssmo</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 419 1034 740 1067">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 419 1034 740 1067">
+     <span class='ocr_line' id='line_1_3' title="bbox 419 1034 740 1067; baseline 0 -10"><span class='ocrx_word' id='word_1_5' title='bbox 419 1034 598 1057; x_wconf 75' lang='lat' dir='ltr'><strong>BERNARDUS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 612 1035 740 1067; x_wconf 71' lang='lat' dir='ltr'><strong>GRASER.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
